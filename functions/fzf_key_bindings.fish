@@ -1,0 +1,1 @@
+/home/kaiyin/.fzf/shell/key-bindings.fish

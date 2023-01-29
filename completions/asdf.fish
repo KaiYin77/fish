@@ -1,0 +1,1 @@
+/home/kaiyin/.asdf/completions/asdf.fish
